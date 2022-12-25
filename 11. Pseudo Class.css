@@ -1,0 +1,14 @@
+<style>
+        a:link
+        {
+            color: green;
+        }
+        a:visited
+        {
+            color: yellow;
+        }
+        a:active
+        {
+            color: magenta;
+        }
+</style>
